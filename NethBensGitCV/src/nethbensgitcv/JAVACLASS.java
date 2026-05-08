@@ -17,7 +17,6 @@ public class JAVACLASS {
          
         hola = 1;
         
-        int chao = 0;
         
         
     }
