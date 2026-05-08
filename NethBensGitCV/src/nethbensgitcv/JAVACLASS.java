@@ -8,8 +8,17 @@ package nethbensgitcv;
  *
  * @author ikerf
  */
-public class clase_sandro {
-
-  
+public class JAVACLASS {
     
+    
+    public void Mostrar (){
+        
+        int hola;
+         
+        hola = 1;
+        
+        int chao = 0;
+        
+        
+    }
 }
